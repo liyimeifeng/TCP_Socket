@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c8a48695893e81b812d1ef4996234fb253cfd1eb">
+        <dex dex="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_28270644156b7a578061a8810eec085dcb8fad51.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_469a44e04eb5bf0e04e558ecf6099defd0772e41.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_6735b14160f70725cf49339db77acd6baca3f1f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_925875d9448dd345587cabdb9a56f4834d2efae9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2a39b402fb5fb4e79de89886c88119e18769fd61">
+        <dex dex="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\pre-dexed\debug\instant-run_6d7abcaab850df158eacf8429eae33c29c02618b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\AndroidStudio\TCPSocketClient\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_a2c62b1e1409740baa8ce10c096f6372ea304f4f.jar" />
+    </item>
+
+</items>

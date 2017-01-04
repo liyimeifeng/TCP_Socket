@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\TCPSocketClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "D:\\AndroidStudio\\TCPSocketClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\SocketClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "D:\\AndroidStudio\\SocketClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout-v11\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Downloads\\SocketClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_screen_content_include.xml",
+        "source": "D:\\Documents\\Downloads\\SocketClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout-v11\\abc_screen_content_include.xml"
+    }
+]
